@@ -1,5 +1,3 @@
-# My Blog
-http://blog.auska.win
 
 ## Usage
 
@@ -34,6 +32,7 @@ In this instance `PUID=1001` and `PGID=1001`. To find yours use `id user` as bel
 + **3.6.2:** Update 3.6.2.
 + **3.6.4:** Update 3.6.4.
 + **3.6.7:** Update 3.6.7.
++ **3.7.0:** Update 3.7.0.
 
 ## Refferences
 https://github.com/liuzhuoling2011/baidupcs-web
